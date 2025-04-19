@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ## 🚀 Projects
 Here are a few of the projects I've worked on:
 
-- **To-Do List App**: A simple to-do list app built with React. [View Project](https://github.com/Malavika-5/to-do-list)
+- **To-Do List **: A simple to-do list app built with React. [View Project](https://github.com/Malavika-5/to-do-list)
 
 
 ## 📈 GitHub Stats
