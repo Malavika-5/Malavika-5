@@ -22,7 +22,7 @@ A dynamic web app to track dream destinations with persistent storage.
 - 💾 **Data persistence** via `localStorage`  
 - 🎬 **Smooth animations** with Framer Motion  
 - 📱 **Fully responsive** design  
-[View Project] [Code](https://github.com/malavika-5/travel-buddy)
+ [Code](https://github.com/malavika-5/travel-buddy)
 
 ### 🌸 Flower Shop Landing Page
 _A responsive floral boutique website_  
