@@ -11,9 +11,9 @@
 
 ### 💫 About Me
 
-* 🎓 **Academic Journey** — Final-year B.Tech CSE student deep-diving into practical software development.
+* 🎓 **Academic Journey** — Final-year B.Tech CSE student building a strong foundation in software development through hands-on projects and continuous learning.
 * 🎨 **Design & Logic** — Passionate about bridging the gap between functional code and clean, intuitive UI design.
-* 🤖 **Future Directions** — Actively building a foundational understanding of AI engineering and data workflows.
+* 🤖 **Future Directions** — Exploring artificial intelligence and preparing to begin my AI Engineering journey.
 * 🚀 **Philosophy** — Learning continuously, experimenting often, and growing one project at a time.
 
 ---
