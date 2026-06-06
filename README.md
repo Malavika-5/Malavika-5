@@ -1,45 +1,38 @@
-# Hi there! I'm Malavika 👋
+# Hi, I'm Malavika 👋
 
-Welcome to my GitHub profile! Here's a little bit about me:
+🎓 Final-Year Computer Science Engineering Student
 
-## 👨‍💻 About Me
-- 🌱 Currently learning **Web Development**  and UI/UX Design
-- 🎮 Exploring **Game Development** in my free time
-- 💻 I enjoy working with HTML, CSS, JavaScript, and Python
-- 📫 How to reach me: malavikas343@gmail.com
-- ⚡ Fun fact: I love reading fantasy novels, dancing, and procrastinating!
+💡 I enjoy turning ideas into projects and using each one as a chance to learn something new.
 
+🌱 Currently building Python projects, learning web development fundamentals, and preparing to begin my journey into AI Engineering.
 
-## 🚀 Projects
-Here are a few of the projects I've worked on:
+## 🚀 What I'm Working On
 
-### ✈️ Travel Bucketlist Planner
-Hackathon Project | React | LocalStorage
-A dynamic web app to track dream destinations with persistent storage.
+* Python development and problem solving
+* Web development fundamentals
+* Git & GitHub workflows
+* Building a strong project portfolio for placements
 
- 🌟 Key Features
-- ✔️ **Add/remove destinations** with React state management  
-- 💾 **Data persistence** via `localStorage`  
-- 🎬 **Smooth animations** with Framer Motion  
-- 📱 **Fully responsive** design  
- [Code](https://github.com/malavika-5/travel-buddy)
+## 📂 Featured Projects
 
-### 🌸 Flower Shop Landing Page
-_A responsive floral boutique website_  
-🔹 Pure HTML/CSS  
-🔹 Flexbox/Grid layout  
-🔹 Mobile-first design  
-[View Project](https://malavika-5.github.io/Flower-shop-landing-page/) | [Code](https://github.com/Malavika-5/Flower-shop-landing-page)
+🔹 Voter Verification System
 
+🔹 Flower Shop Management System
 
-## 📊 GitHub Stats
+🔹 CLI To-Do List Application
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malavika-5&show_icons=true&theme=radical&hide_title=true)
+🔹 Web Scraping Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malavika-5&layout=compact&theme=radical)
+🔹 Calculator CLI Application
 
-## 🧑‍💻 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/malavika-sindhu-2819482a0/)
-  
+🔹 Travel Buddy Website
 
-🌟 Thanks for visiting - feel free to explore my projects!
+## 🛠 Tech Stack
+
+Python • HTML • CSS • JavaScript • SQL • Git • GitHub • Figma
+
+## 🎯 Current Goal
+
+To grow from a student who loves building projects into an engineer who creates meaningful solutions through software and AI.
+
+📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
