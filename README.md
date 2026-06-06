@@ -21,8 +21,8 @@ Artificial Intelligence • UI/UX Design • AR/VR • Software Development • 
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Malavika-5&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malavika-5&layout=compact" />
 </p>
 
 ---
