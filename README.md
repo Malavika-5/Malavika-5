@@ -5,9 +5,6 @@
   <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20AI-darkgreen?style=flat-square" alt="Focus" />
 </p>
 
-> A final-year Computer Science Engineering student passionate about learning, creating, and exploring new technologies. I enjoy building projects, experimenting with ideas, and combining technology with design to create meaningful user experiences.
-
----
 
 ## 💫 About Me
 
