@@ -1,30 +1,45 @@
 # Hi, I'm Malavika 👋
 
-Final Year Computer Science Engineering Student
+### Final Year Computer Science Engineering Student
 
 Exploring software development, design, and artificial intelligence through hands-on projects and continuous learning.
 
+---
+
 ## 🌱 Currently Learning
 
-Python • Web Development • Git & GitHub • AI Fundamentals
+- Python
+- Web Development
+- Git & GitHub
+- AI Fundamentals
 
-## 💫 Interests
+## 💫 About Me
 
-Artificial Intelligence • UI/UX Design • AR/VR • Software Development • Creative Technology
+- 🎓 Final-year B.Tech CSE student
+- 💻 Building projects to strengthen my development skills
+- 🎨 Interested in UI/UX Design and Creative Technology
+- 🤖 Preparing to begin my AI Engineering journey
+- 🚀 Learning by building, experimenting, and solving problems
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js,sql,git,github,vscode,figma" />
 </p>
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?Malavika-5&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malavika-5&layout=compact" />
-</p>
+- Voter Verification System
+- Flower Shop Management System
+- Web Scraper
+- Travel Buddy
+
+## 📫 Connect With Me
+
+- LinkedIn: [LinkedIn](YOUR_LINKEDIN_URL)
+- Resume: [Resume](YOUR_RESUME_LINK)
+- Email: your.email@example.com
 
 ---
 
-*"Learning continuously. Building intentionally."*
+> Learning continuously • Building intentionally • Growing one project at a time.
